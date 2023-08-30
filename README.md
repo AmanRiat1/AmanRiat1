@@ -6,9 +6,9 @@
 
 ## 😃 Talk to me about!!
 
-- Front-end development using **HTML, Javascript, CSS, React**
+- Cloud developemnt with Kubernetes and Docker
 - Machine Learning
-- Kubernetes and Docker
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AmanRiat1.AmanRiat)
 
