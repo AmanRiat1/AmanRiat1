@@ -6,7 +6,7 @@
 
 ## 😃 Talk to me about!!
 
-- Cloud developemnt with Kubernetes and Docker
+- Cloud development with Kubernetes and Docker
 - Machine Learning
 
 
