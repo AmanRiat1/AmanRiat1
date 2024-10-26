@@ -1,14 +1,17 @@
-<h2> Aman Riat <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aman_Riat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanriat//)](https://www.linkedin.com/in/amanriat/) 
+## Hi there, I'm Aman <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+⚡ Fun Facts:
+- 👯 I love working with anything Kubernetes
+- 🔧 Currently working in DevOps
+- 📫 How to reach me: https://www.linkedin.com/in/amanriat/
+- 😄 Pronouns: He/Him
 
-## 😃 Talk to me about!!
+ ### ⭐ GitHub Stats
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanRiat1&theme=algolia)        
 
-- Cloud development with Kubernetes and Docker
-- Machine Learning
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AmanRiat1.AmanRiat)
-
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/AmanRiat1"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/amanriat/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+</p>
